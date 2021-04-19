@@ -1,0 +1,12 @@
+{
+    "main": {
+        "TOKEN": "ODIwMzk0OTkwMDczMTUxNTM5.YE0iXw.rCvJCKFjohuKqavsUmRPYGpqeO8",
+        "PREFIX": "/"
+    },
+    "database": {
+        "HOST": "localhost",
+        "USER": "root",
+        "PASSWORD": "",
+        "DATABASE": "blutrp"
+    }
+}
